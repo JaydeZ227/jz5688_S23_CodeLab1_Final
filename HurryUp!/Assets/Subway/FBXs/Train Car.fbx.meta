@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 0d8f7dd3f0fc0764b86795615af5686c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Door 1
+    100002: Door 10
+    100004: Door 11
+    100006: Door 12
+    100008: Door 2
+    100010: Door 3
+    100012: Door 4
+    100014: Door 5
+    100016: Door 6
+    100018: Door 7
+    100020: Door 8
+    100022: Door 9
+    100024: Front Door
+    100026: Rear Door
+    100028: Train Car
+    100030: //RootNode
+    100032: Wheels 1
+    100034: Wheels 2
+    100036: Wheels 3
+    100038: Wheels 4
+    400000: Door 1
+    400002: Door 10
+    400004: Door 11
+    400006: Door 12
+    400008: Door 2
+    400010: Door 3
+    400012: Door 4
+    400014: Door 5
+    400016: Door 6
+    400018: Door 7
+    400020: Door 8
+    400022: Door 9
+    400024: Front Door
+    400026: Rear Door
+    400028: Train Car
+    400030: //RootNode
+    400032: Wheels 1
+    400034: Wheels 2
+    400036: Wheels 3
+    400038: Wheels 4
+    2100000: Train Car 8
+    2100002: Train Car 9
+    2100004: Train Car Glass
+    2100006: Train Car 7
+    2100008: Train Car 3
+    2100010: Train Car 1
+    2100012: Train Car 2
+    2100014: Train Car 5
+    2100016: Train Car 4
+    2100018: Train Car 6_
+    2100020: Train Car 10
+    2300000: Door 1
+    2300002: Door 10
+    2300004: Door 11
+    2300006: Door 12
+    2300008: Door 2
+    2300010: Door 3
+    2300012: Door 4
+    2300014: Door 5
+    2300016: Door 6
+    2300018: Door 7
+    2300020: Door 8
+    2300022: Door 9
+    2300024: Front Door
+    2300026: Rear Door
+    2300028: Train Car
+    2300030: Wheels 1
+    2300032: Wheels 2
+    2300034: Wheels 3
+    2300036: Wheels 4
+    3300000: Door 1
+    3300002: Door 10
+    3300004: Door 11
+    3300006: Door 12
+    3300008: Door 2
+    3300010: Door 3
+    3300012: Door 4
+    3300014: Door 5
+    3300016: Door 6
+    3300018: Door 7
+    3300020: Door 8
+    3300022: Door 9
+    3300024: Front Door
+    3300026: Rear Door
+    3300028: Train Car
+    3300030: Wheels 1
+    3300032: Wheels 2
+    3300034: Wheels 3
+    3300036: Wheels 4
+    4300000: Front Door
+    4300002: Wheels 2
+    4300004: Wheels 1
+    4300006: Wheels 3
+    4300008: Wheels 4
+    4300010: Door 3
+    4300012: Door 4
+    4300014: Door 8
+    4300016: Door 7
+    4300018: Door 11
+    4300020: Door 12
+    4300022: Rear Door
+    4300024: Door 10
+    4300026: Door 9
+    4300028: Door 5
+    4300030: Door 6
+    4300032: Door 2
+    4300034: Door 1
+    4300036: Train Car
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Train Car 1
+    second: {fileID: 2100000, guid: 031c6debad5c8914fa67b95739e38bf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Train Car 10
+    second: {fileID: 2100000, guid: 63452ad46ce063f43817b5163aabb565, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Train Car 2
+    second: {fileID: 2100000, guid: 6b182433b89b5af41b1a80b7fbb4ef1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Train Car 3
+    second: {fileID: 2100000, guid: c48ddb260b4330149843c675d2e41173, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Train Car 4
+    second: {fileID: 2100000, guid: 61b0192c9074d6d47a500d47704d9719, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Train Car 5
+    second: {fileID: 2100000, guid: 9e6b2d3b16bffa242bb8a3d5c95f7562, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Train Car 6_
+    second: {fileID: 2100000, guid: ccd1bd353e8704c4196d1cbeb178ec84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Train Car 7
+    second: {fileID: 2100000, guid: 8d134175431be694c8d4c4870ca4b60c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Train Car 8
+    second: {fileID: 2100000, guid: 75a4c81af41da624fa2428c91c4c3f7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Train Car 9
+    second: {fileID: 2100000, guid: 59242d5389511c344a1ec9d9b56fdd90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Train Car Glass
+    second: {fileID: 2100000, guid: f660654f1dea7d846b3fce20354b0a8d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
